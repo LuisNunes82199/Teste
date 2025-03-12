@@ -23,6 +23,13 @@ public partial class MainWindow : Window
 
     private void Button_Click(object sender, RoutedEventArgs e)
     {
-        MessageBox.Show("Modifiquei o botão.");
+
+        MessageBox.Show("Modifiquei o botanitao.");
+
+        MessageBox.Show("jogo demasi")
+ 
+
+        MessageBox.Show("O Fuso é um craquezão .");
+
     }
 }
