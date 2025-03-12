@@ -26,6 +26,6 @@ public partial class MainWindow : Window
 
         MessageBox.Show("Modifiquei o botanitao.");
 
-        MessageBox.Show("O Fuso é um craque .")
+        MessageBox.Show("O Fuso é um craque .");
     }
 }
